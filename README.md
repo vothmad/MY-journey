@@ -119,7 +119,7 @@ Genuinely, I had to do a lot more troubleshooting and tweaks to make this work b
 
 <br>
 <details>
-<summary><b>Fastfetch</b></summary>
+<summary><b>✦ ── » ｆａｓｔｆｅｔｃｈ « ── ✦</b></summary>
 
 ![My Linux Desktop](./my-desktop.png)
 
