@@ -82,7 +82,7 @@ This project proves that we could do system-level logic to solve real-world prob
 The application that the person uses all the time for work got updated, and the usual mock location methods stopped working because the app started rejecting access if it detected fake GPS or Developer Options. I had to solve this under strict real-world constraints:
 * **No Daily PC Access:** They didn't own a PC, so a computer could only be used once for the initial setup.
 * **No Rooting:** I didn't want to root their phone and risk breaking the system or safety.
-* **No Virtual Space:** The phone was a **Poco F11 (Android 10)**, and running a virtual space/cloning app would make the device struggle and lag due to RAM limits.
+* **No Virtual Space:** The phone was a **Oppo F11 (Android 10)**, and running a virtual space/cloning app would make the device struggle and lag due to RAM limits.
 
 To bypass these limitations, I researched and put together a standalone workaround using **Shizuku** and **Geto**.
 
